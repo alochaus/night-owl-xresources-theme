@@ -4,7 +4,9 @@
   </a>
 </div>
 
-![Screenshot](./Screenshot.png)
+<div align="center">
+  <img src="Screenshot.png" />
+</div>
 
 **Terminal: [rxvt-unicode](https://github.com/exg/rxvt-unicode)**
 
